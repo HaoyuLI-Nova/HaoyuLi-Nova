@@ -1,43 +1,45 @@
-# 💫 Hi, I'm Haoyu Li (Nova) | 构建者 & 终身学习者
+# 💫 Haoyu Li (Nova)
 
-> **"第一性原理是看待世界的唯一方式。我不是在研究技术，我是在构建未来。"**
-> —— 致敬我的偶像：Elon Musk, 雷军, Jensen Huang.
-
-我是一名计算机科学与技术专业的学生，但我拒绝被“学生”或“研究者”的标签定义。我追求的是**极致的工程实现**与**底层逻辑的突破**。
+> **"Speed is the only universal language of excellence."** > —— Dedicated to building high-performance systems and exploring the frontiers of intelligence.
 
 ---
 
-### 🚀 愿景与使命 (Vision & Mission)
-- 🌍 **目标：** 掌握构建复杂系统的全栈能力，用代码作为杠杆去解决真实世界的低效问题。
-- 🛠️ **当前修炼：** 深入探索 **联邦学习 (Federated Learning)** 的泛化性，同时在底层工程实践中磨练 C++/C# 与 Python。
-- 💡 **哲学：** 像雷军一样极致执行，像黄仁勋一样洞察先机，像马斯克一样敢于清零。
+### 🌐 About Me / 关于我
+I am a Computer Science & Technology student at **Wuhan University**. My philosophy is rooted in the convergence of rigorous academic research and hardcore engineering execution. Inspired by visionaries like **Elon Musk**, **Lei Jun**, and **Jensen Huang**, I strive to master the full spectrum of technology to solve complex, real-world challenges.
+
+我是**武汉大学**计算机科学与技术专业的学生。我的技术哲学源于严谨的学术研究与硬核工程执行力的融合。受**马斯克**、**雷军**和**黄仁勋**的启发，我致力于掌握全方位的技术栈，以解决复杂的现实世界挑战。
 
 ---
 
-### 💻 核心技术栈 (Technical Arsenal)
+### 🚀 Technical Focus / 技术聚焦
 
-#### ⚡ 编程语言 (Languages)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- **Current Research:** Deep diving into **Federated Learning** and **Domain Generalization** to build privacy-preserving, robust AI.
+- **The "Nova" Vision:** Moving beyond localized optimizations to create scalable, impactful technology that drives human progress.
 
-#### 🧠 智能与架构 (Intelligence & Architecture)
-- **AI Frameworks:** PyTorch (Focus on Generalization & FL)
-- **Tools:** Git, LaTeX, Docker, Unity (for C#)
-- **Systems:** Linux (lihaoyu@estar-ESC8000-G4)
+- **当前研究：** 深入研究**联邦学习**与**域泛化**，构建具备隐私保护能力的鲁棒人工智能。
+- **Nova 愿景：** 跳出局部优化，创造具有规模化影响力、推动进步的技术方案。
 
 ---
 
-### 📊 探索轨迹 (The Odyssey)
-- 🔍 **学术阵地：** 致力于解决联邦学习中的性能公平性与域泛化问题。
-- 🏗️ **工程实践：** 不断将复杂的算法转化为高效、可扩展的工业级代码。
-- 📚 **知识管理：** 追踪计算机科学、医学与心理学的交叉前沿。
+### 🛠️ Tech Stack / 技术栈
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **System Programming** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) |
+| **AI & Research** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=latex&logoColor=white) |
+| **Foundations** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
 ---
 
-### 📬 与我交流 (Get in Touch)
-- 📧 **Professional Email:** [haoyu.nova@whu.edu.cn](mailto:haoyu.nova@whu.edu.cn)
-- 📍 **Based in:** 武汉大学 (Wuhan University)
+### 📈 Future Roadmap / 未来规划
+- [ ] **Phase 1:** Solidify Python/PyTorch foundations for robust FL implementations.
+- [ ] **Phase 2:** Leverage C++/C# for performance-critical middleware and system-level tools.
+- [ ] **Phase 3:** Bridge the gap between AI theory and industrial-grade deployment.
 
 ---
+
+### 📫 Contact / 联系方式
+- **Email:** [haoyu.nova@whu.edu.cn](mailto:haoyu.nova@whu.edu.cn)
+- **Location:** Wuhan, China
+
 *"The best way to predict the future is to invent it."*
