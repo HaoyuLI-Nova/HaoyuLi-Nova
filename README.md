@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Haoyu%20Li%20(Nova)&fontSize=70)
 # 💫 Haoyu Li (Nova)
 
 > **"Speed is the only universal language of excellence."** > —— Dedicated to building high-performance systems and exploring the frontiers of intelligence.
