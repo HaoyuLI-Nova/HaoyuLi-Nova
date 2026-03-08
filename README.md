@@ -19,7 +19,7 @@ I am a Computer Science & Technology student at **Wuhan University**. My philoso
 - **Current Research:** Deep diving into **Federated Learning** and **Domain Generalization** to build privacy-preserving, robust AI.
 - **The "Nova" Vision:** Moving beyond localized optimizations to create scalable, impactful technology that drives human progress.
 
-- **当前研究：** 深入研究**联邦学习**与**域泛化**，构建具备隐私保护能力的鲁棒人工智能。
+- **当前研究：** **联邦学习**与**脑科学**，构建可解释,具备隐私保护能力的大模型。
 - **Nova 愿景：** 跳出局部优化，创造具有规模化影响力、推动进步的技术方案。
 
 ---
