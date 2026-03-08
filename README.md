@@ -32,12 +32,6 @@ I am a Computer Science & Technology student at **Wuhan University**. My philoso
 
 ---
 
-### 📈 Future Roadmap / 未来规划
-- [ ] **Phase 1:** Solidify Python/PyTorch foundations for robust FL implementations.
-- [ ] **Phase 2:** Leverage C++/C# for performance-critical middleware and system-level tools.
-- [ ] **Phase 3:** Bridge the gap between AI theory and industrial-grade deployment.
-
----
 
 ### 📫 Contact / 联系方式
 - **Email:** [haoyu.nova@whu.edu.cn](mailto:haoyu.nova@whu.edu.cn)
