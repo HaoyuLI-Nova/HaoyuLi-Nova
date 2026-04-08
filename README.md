@@ -1,16 +1,7 @@
-<p align="center">
-  <img src="banner.jpg" width="100%">
-</p>
-# 💫 Haoyu Li (Nova)
-
-> **"Speed is the only universal language of excellence."** > —— Dedicated to building high-performance systems and exploring the frontiers of intelligence.
-
----
-
 ### 🌐 About Me / 关于我
-I am a Computer Science & Technology student at **Wuhan University**. My philosophy is rooted in the convergence of rigorous academic research and hardcore engineering execution. Inspired by visionaries like **Elon Musk**, **Lei Jun**, and **Jensen Huang**, I strive to master the full spectrum of technology to solve complex, real-world challenges.
+I am a Computer Science & Technology student at **Wuhan University**. My philosophy is rooted in the convergence of rigorous academic research and hardcore engineering execution. I strive to master the full spectrum of technology to solve complex, real-world challenges.
 
-我是**武汉大学**计算机科学与技术专业的学生。我的技术哲学源于严谨的学术研究与硬核工程执行力的融合。受**马斯克**、**雷军**和**黄仁勋**的启发，我致力于掌握全方位的技术栈，以解决复杂的现实世界挑战。
+我是**武汉大学**计算机科学与技术专业的学生。我的技术哲学源于严谨的学术研究与硬核工程执行力的融合。我致力于掌握全方位的技术栈，以解决复杂的现实世界挑战。
 
 ---
 
